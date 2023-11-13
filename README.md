@@ -1,2 +1,2 @@
 # trials
-Just to figurer out how GitHub works lmao
+Just to figure out how GitHub works lmao
